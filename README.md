@@ -1,4 +1,4 @@
-# Project-NLP-Slang-check-AI
+# Project-Slang-check-AI
 
 2022-2
 KHU AI Programming
